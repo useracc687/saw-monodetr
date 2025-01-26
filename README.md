@@ -14,7 +14,7 @@ Monocular 3D object detection offers a cost-effective alternative to LiDAR and s
 ### InsMonoDETR
 1. Clone this project and create a conda environment:
     ```
-    git clone https://github.com/cmono3d/InsMonoDETR.git
+    git clone https://github.com/useracc687/saw-monodetr.git
     cd InsMonoDETR
 
     conda create -n insmonodetr python=3.8
